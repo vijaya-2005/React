@@ -1,0 +1,9 @@
+.body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 30px;
+    margin: 40px;
+    flex-shrink: 0; 
+    column-gap: 10px;
+    
+}
