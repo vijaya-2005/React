@@ -1,21 +1,18 @@
 export default function Education({ education }) {
     return (
-      <>
+      <div className="education-section">
+          <h2>EDUCATION</h2>
         {education.map((edu, index) => (
-          <div key={index}>
-            <h2>Education</h2>
-            <p>Degree: {edu.degree}</p>
-            <p>University: {edu.university}</p>
-            <p>Graduation Date: {edu.graduationDate}</p>
-            <h4>Coursework</h4>
-            <ul>
-              {edu.coursework && edu.coursework.map((course, index) => (
-                <li key={index}>{course}</li>
-              ))}
-            </ul>
+          <div   key={index}>
+          
+            <h3> {edu.degree}</h3>
+            <h4> {edu.university} </h4><p>Percentage :{edu.percentage}</p>
+            <p>{edu.graduationDate}</p>
+            <hr></hr>
           </div>
+          
         ))}
-      </>
+      </div>
     );
   }
   

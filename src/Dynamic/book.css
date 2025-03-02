@@ -1,0 +1,10 @@
+.details {
+    display: flex;
+    align-items: center;  
+    line-height: 0px;
+   
+  }
+  .main{
+    display:flex;
+    
+  }

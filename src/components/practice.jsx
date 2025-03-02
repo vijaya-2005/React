@@ -1,18 +1,18 @@
 export default function Practice({ practice }) {
     return (
-      <>
-      <h2>Practice</h2>
+      <div className="practice-section">
+      <h2>CODING PROFILE</h2>
       <ul>
         {practice.map((prac, index) => (
           <div key={index}>
             
-           <li> <p>Platform: {prac.platform}</p>
-            <p>Username: {prac.username}</p></li>
+           <li>  {prac.platform} : {prac.username}
+            </li>
           </div>
           
         ))}
         </ul>
-      </>
+      </div>
     );
   }
   
