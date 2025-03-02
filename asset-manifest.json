@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vijaya-2005/React.git/static/css/main.dc7c0a23.css",
-    "main.js": "/vijaya-2005/React.git/static/js/main.33e853ac.js",
-    "index.html": "/vijaya-2005/React.git/index.html",
-    "main.dc7c0a23.css.map": "/vijaya-2005/React.git/static/css/main.dc7c0a23.css.map",
-    "main.33e853ac.js.map": "/vijaya-2005/React.git/static/js/main.33e853ac.js.map"
+    "main.css": "/React/static/css/main.dc7c0a23.css",
+    "main.js": "/React/static/js/main.2d4e91d9.js",
+    "index.html": "/React/index.html",
+    "main.dc7c0a23.css.map": "/React/static/css/main.dc7c0a23.css.map",
+    "main.2d4e91d9.js.map": "/React/static/js/main.2d4e91d9.js.map"
   },
   "entrypoints": [
     "static/css/main.dc7c0a23.css",
-    "static/js/main.33e853ac.js"
+    "static/js/main.2d4e91d9.js"
   ]
 }
