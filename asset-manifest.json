@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vijaya-2005/React.git/static/css/main.dc7c0a23.css",
+    "main.js": "/vijaya-2005/React.git/static/js/main.33e853ac.js",
+    "index.html": "/vijaya-2005/React.git/index.html",
+    "main.dc7c0a23.css.map": "/vijaya-2005/React.git/static/css/main.dc7c0a23.css.map",
+    "main.33e853ac.js.map": "/vijaya-2005/React.git/static/js/main.33e853ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7c0a23.css",
+    "static/js/main.33e853ac.js"
+  ]
+}
